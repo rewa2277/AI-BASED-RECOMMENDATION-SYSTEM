@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class RecommendationSystem {
 
     // Sample user-item ratings
